@@ -148,7 +148,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Thiago C.</a>
  <br />
  
-[![Gmail Badge]()
+[![Linkedin Badge](https://www.linkedin.com/in/thiago-c-5b539a303)
 
 ---
 
