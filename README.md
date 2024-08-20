@@ -143,12 +143,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
-
-<a href="https://www.linkedin.com/in/thiago-c-5b539a303/>
-Thiago C.</a>
- <br />
- 
-[[Linkedin Badge](https://www.linkedin.com/in/thiago-c-5b539a303)
+[Linkedin Badge](https://www.linkedin.com/in/thiago-c-5b539a303)
 
 ---
 
