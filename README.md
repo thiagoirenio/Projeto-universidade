@@ -84,9 +84,9 @@ O desafio proposto para este projeto era a criação de uma pagina web apenas no
 
 ### Widget em uma página externa
 
-![Web1](https://github.com/thiagoirenio/Projeto-universidade/blob/main/contato.html)
-![Web1](https://github.com/thiagoirenio/Projeto-universidade/blob/main/index.html)
-![Web1](https://github.com/thiagoirenio/Projeto-universidade/blob/main/quem-somos.html)
+![Web1](https://thiagoirenio.github.io/Projeto-universidade/index.html)
+![Web1](https://thiagoirenio.github.io/Projeto-universidade/quem-somos.html)
+![Web1](https://thiagoirenio.github.io/Projeto-universidade/contato.html)
 
 ---
 
