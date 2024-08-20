@@ -78,9 +78,9 @@ O desafio proposto para este projeto era a criação de uma pagina web apenas no
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
 ![Mobile1](https://github.com/thiagoirenio/Projeto-universidade/blob/main/imagens/capa.png)<br>
-![Mobile2](https://github.com/thiagoirenio/Projeto-universidade/blob/main/imagens/fundo.png)<br>
-![Mobile3](https://github.com/thiagoirenio/Projeto-universidade/blob/main/imagens/fundo2.png)<br>
-![Mobile4](https://github.com/thiagoirenio/Projeto-universidade/blob/main/imagens/logo.png)
+![Mobile2]()<br>
+![Mobile3]()<br>
+![Mobile4]()
 
 ### Widget em uma página externa
 
