@@ -115,7 +115,7 @@ Ou de preferencia [LazyVim](https://www.lazyvim.org/)
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Front-End**  ([ReactJS](https://reactjs.org/)) 
+#### **Front-End**
 
 -   **[HTML5](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics)**
 -   **[CSS3](https://www.w3schools.com/Css/)**
