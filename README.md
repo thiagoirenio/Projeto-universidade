@@ -1,5 +1,3 @@
-# Projeto-universidade
-Projeto sobre uma universidade
 <!-- 
 	FIZ UM VÍDEO NO MEU CANAL (), 
  	MOSTRANDO PASSO-A-PASSO DE COMO
@@ -14,7 +12,7 @@ Projeto sobre uma universidade
 
 <!-- MODELO PROJETO FINALIZADO -->
 <h1 align="center"> 
-	  🚀✅ Projeto-universidade - Concluído ✅🚀
+	  🚀✅ ProjetoUniversidade - Concluído ✅🚀
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
@@ -48,12 +46,10 @@ Projeto sobre uma universidade
 <!-- MODELO DESCRIÇÃO SOBRE O PROJETO: -->
 ## 💻 Sobre o projeto
 
-Projeto feito apenas com HTML5 e CSS3 sobre uma universidade.
-
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-Projeto-universidade é um projeto criado para o meu aprendizado pessoal e foi feito unica e exclusivamente para isso.
+{Nome do repositório} é um projeto criado para o processo seletivo da {Nome da Empresa}.
 
-O desafio proposto para este projeto era a criação de uma pagina web apenas no HTML5 e CSS3 de uma universidade ficticia. Neste projeto, teríamos que criar o jornal dessa universidade.
+O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, teríamos {EXPLICAR}
 
 <!-- LINHA DE DIVISÃO: -->
 ---
@@ -64,8 +60,8 @@ O desafio proposto para este projeto era a criação de uma pagina web apenas no
 ## ⚙️ Funcionalidades
 
 <!-- EXEMPLO DE FUNCIONALIDADES: -->
-- [x] Paginas para o acesso a informações.
-- [x] Varias abas diferentes.
+- [x] Se o usuário não enviar mensagens dentro de 1 minuto o chat deve responder uma mensagem automaticamente.
+- [x] Se o usuário ficar inativo por 3 minutos o chat se encerra
 
 ---
 
@@ -77,12 +73,10 @@ O desafio proposto para este projeto era a criação de uma pagina web apenas no
 ### Widget
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](https://github.com/thiagoirenio/Projeto-universidade/blob/main/imagens/capa.png)<br>
 
 
 ### Widget em uma página externa
 
-https://thiagoirenio.github.io/Projeto-universidade/index.html
 
 
 ---
@@ -93,18 +87,14 @@ https://thiagoirenio.github.io/Projeto-universidade/index.html
 ## 🚀 Como executar o projeto
 
 1 - Baixar o Projeto <br>
-2 - Abra o caminho dele no Navegador<br>
+2 - Instalar a pasta node_modules (npm install)<br>
 3 - Rodar o projeto (npm start)
 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE PRÉ REQUISITOS -->
 ### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-Ou de preferencia [LazyVim](https://www.lazyvim.org/)
+NeoVIM - O melhor editor
 
 ---
 
@@ -115,14 +105,13 @@ Ou de preferencia [LazyVim](https://www.lazyvim.org/)
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Front-End**
-
--   **[HTML5](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics)**
--   **[CSS3](https://www.w3schools.com/Css/)**
+#### **Front-End**  
+HTML5 <br>
+CSS3
 
 #### **Prototipação** ([Figma](https://www.figma.com/))
 
-- **Nenhuma.**
+
 
 ---
 
@@ -143,7 +132,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
-[Linkedin Badge](https://www.linkedin.com/in/thiago-c-5b539a303)
+
+<a href="https://www.linkedin.com/in/thiago-c-5b539a303">
+Thiago Irênio Caldeira</a>
+ <br />
 
 ---
 
@@ -154,5 +146,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por Thiago Irênio👋🏽 [Entre em contato!](https://www.linkedin.com/in/thiago-c-5b539a303)
+Feito por Thiago Irênio Caldeira👋🏽 [Entre em contato!](https://www.linkedin.com/in/thiago-c-5b539a303)
 
