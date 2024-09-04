@@ -90,7 +90,9 @@
 ### Widget em uma página externa
 <br>
 <p>
-	•🏠<a href="https://thiagoirenio.github.io/ProjetoUniversidade/">Home</a><br>
+		•🏠<a href="https://thiagoirenio.github.io/ProjetoUniversidade/">Home</a><br>
+		•🗞️<a href="https://thiagoirenio.github.io/ProjetoUniversidade/quem-somos.html">Quem somos</a><br>
+		•📞<a href="https://thiagoirenio.github.io/ProjetoUniversidade/contato.html">Contato</a><br>
 </p>
 
 
